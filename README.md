@@ -2,12 +2,12 @@
 A machine learning method for disulfide bond engineering site prediction based on structures
 
 ## Summary
-This program include the following functions:
-(1) select/download structure files;
-(2) extract disulfide bonds and generate negative samples;
-(3) convert the coordinates to distance information;
-(4) training and testing;
-(5) disulfide bond engineering site prediction;
+This program include the following functions:  
+(1) select/download structure files;  
+(2) extract disulfide bonds and generate negative samples;  
+(3) convert the coordinates to distance information;  
+(4) training and testing;  
+(5) disulfide bond engineering site prediction;  
 (6) scripts for web-server setup.
 
 ## Introduction
