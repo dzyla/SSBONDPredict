@@ -25,5 +25,8 @@ from left to right, the columes are:
 ## Detailed Documentation
 see the [README](https://github.com/LiuLab-CSRC/SSBONDPredict/tree/master/PreDisulfideBond) in the Source code pages.
 
+## Executable file download 
+If you don't want to spend energy on building complex python operating environment,you can download Executable file by click [Executable file download](https://github.com/gao666999/SSBONDpyinstaller).
+
 ## Copyright
 SSBONDPredict is created by liulab of Beijing Compulational Science Research Center.
