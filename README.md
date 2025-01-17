@@ -1,6 +1,10 @@
 # SSBONDPredict
 A machine learning method for disulfide bond engineering site prediction based on structures
 
+# installation and run
+go to SSBONDPredict/PreDisulfideBond and run python predict.py 3mer_isolde.pdb /home/dzyla/SSbonds/ 3mer_isolde
+
+
 ## Summary
 This program include the following functions:  
 (1) select/download structure files;  
